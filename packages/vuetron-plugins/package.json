@@ -1,6 +1,6 @@
 {
   "name": "vuetron",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "description": "Plugins for the Vuetron debugging app",
   "main": "index.js",
   "scripts": {
