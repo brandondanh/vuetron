@@ -1,6 +1,6 @@
 {
   "name": "vuetron",
-  "version": "1.1.0",
+  "version": "1.1.2",
   "description": "Plugins for the Vuetron debugging app",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/talls-and-smalls/vuetron.git"
+    "url": "git+https://github.com/vuetwo/vuetron.git"
   },
   "keywords": [
     "vue",
@@ -20,9 +20,9 @@
   "author": "Vuetron Team",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/talls-and-smalls/vuetron/issues"
+    "url": "https://github.com/vuetwo/vuetron/issues"
   },
-  "homepage": "https://github.com/talls-and-smalls/vuetron#readme",
+  "homepage": "https://github.com/vuetwo/vuetron#readme",
   "dependencies": {
     "deep-diff": "^0.3.8",
     "express": "^4.16.2",
